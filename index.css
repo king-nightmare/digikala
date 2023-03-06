@@ -239,7 +239,7 @@ button{
 }
 .amazing{
     height: 310px;
-    background-color: #6f3cef ;
+    background-color: #ef3b50 ;
     border-radius: 10px;
     overflow-x: scroll;
     overflow-y: hidden;
@@ -307,7 +307,7 @@ button{
     display: initial;
 }
 .nav-buton{
-    background-color: #00a8ae;
+    background-color: #39ae00;
     color: white;
     width: 120px;
     height: 30px;
@@ -472,7 +472,7 @@ button{
     height: 390px;
     width: 1924;
     width: 100%;
-    background-color: #94861b;
+    background-color: #941b80;
     margin-top: 3rem;
     border-radius: 10px;
 }
@@ -548,7 +548,7 @@ button{
 .digiclub{
     display: flex;
     margin-top: 1rem;
-    background-color: #68d2f2;
+    background-color: #007295;
     border-radius: 10px;
     margin-bottom: 2rem;
 }
@@ -821,18 +821,18 @@ button{
     right: 0;
     height: 70px;
     left: 23rem;
-    bottom: -418rem;
+    bottom: -420rem;
     background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.6615239845938375) 65%, rgba(255,255,255,0) 100%);
 }
 .third-footer{
     padding-top: 1rem;
     padding-bottom: 1rem;
     margin-top: 2rem;
-    border-top: 1px solid rgb(216, 32, 32);
-    border-bottom: 1px solid rgb(72, 37, 37);
+    border-top: 1px solid rgb(241, 245, 244);
+    border-bottom: 1px solid rgb(231, 223, 223);
 }
 .final{
-    background-color: #98afde;
+    background-color: #f1f2f4;
 }
 .psample{
     text-align: center;
